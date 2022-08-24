@@ -1,0 +1,11 @@
+Expected, 	Predicted
+man,		woman
+man, 		man
+woman,		woman
+man,		man
+woman,		man
+woman, 	woman
+woman, 	woman
+man, 		man
+man, 		woman
+woman, 	woman
